@@ -52,6 +52,7 @@ None
 
 #### Studies undergoing review
 Studies reviewed by Taylor, 2011 (Table 2 of Taylor) that reported different metrics:
+
 CAARS:
 1. Conners, Erhadt, Epstein, et al. (1999)
 2. Cleland, Magura, Foote, Rosenblum, and Kosanke (2006)
@@ -60,6 +61,7 @@ CAARS:
 5. Solanto et al. (2004)
 6. Kooij et al. (2008)
 7. Adler et al. The reliability and validity of self- and investigator ratings of ADHD in adults. Journal of Attention Disorders. 2008:11;711.
+8. 
 ASRS:
 1. Kessler et al. (2005)
 2. Reuter et al. (2006)
