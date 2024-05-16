@@ -4,9 +4,9 @@ A living systematic review
 
 Short url: https://openmetaanalysis.github.io/Adult-ADHD/
 
-**Clinical summary:** This meta-analysis, based on limited data in a single studies for each scale, suggests that the CAARS Self-Report Index T-Score *is* the most accurate. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 98% *across* scales, but cannot be measured for each scale as only a single study is available per scale. This review updates previously published meta-analysis(es).(citation[s] below). Taylor previously concluded using different studies with different metrics, "Conners’ Adult ADHD Rating scale and the Wender Utah Rating Scale (short version) hadmore robust psychometric statistics and content validity" (Taylor, 2011).
+**Clinical summary:** This meta-analysis, based on limited data in a single studies for each scale, suggests that the CAARS Self-Report Index T-Score *is* the most accurate. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 98% *across* scales, but cannot be measured for each scale as only a single study is available per scale. This review updates previously published meta-analysis(es).(citation[s] below). Taylor previously concluded using different studies with different metrics, "Conners’ Adult ADHD Rating scale and the Wender Utah Rating Scale (short version) hadmore robust psychometric statistics and content validity" ([Taylor, 2011](#systematic-reviews)).
 
-Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
+<!-- Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.-->
 
 * [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
 * [Keep current with this topic](files/searching/Keep-up.md)
@@ -51,9 +51,23 @@ None
 4. Young JL, Powell RN, Zabel C, Saal J, Welling LLM, Fortain J, Ceresnie A. Development and validation of the ADHD Symptom and Side Effect Tracking - Baseline Scale (ASSET-BS): a novel short screening measure for ADHD in clinical populations. BMC Psychiatry. 2023 Nov 6;23(1):806. doi: 10.1186/s12888-023-05295-6. PMID: [37932675](http://pubmed.gov/37932675).
 
 #### Studies undergoing review
-None
+Studies reviewed by Taylor, 2011 (Table 2 of Taylor) that reported different metrics:
+CAARS:
+1. Conners, Erhadt, Epstein, et al. (1999)
+2. Cleland, Magura, Foote, Rosenblum, and Kosanke (2006)
+3. Erhardt et al. (1999)
+4. Belenduik et al. Assessing the concordance of measures used to diagnose adult ADHD. Journal of Attention Disorders. 2007:10;276–287.
+5. Solanto et al. (2004)
+6. Kooij et al. (2008)
+7. Adler et al. The reliability and validity of self- and investigator ratings of ADHD in adults. Journal of Attention Disorders. 2008:11;711.
+ASRS:
+1. Kessler et al. (2005)
+2. Reuter et al. (2006)
+3. Adler et al. (2006)
+4. Kessler et al. (2007)
 
-#### Studies excluded - selected list of important trial(s)
+#### Studies excluded - selected list of important studies
+None
 
 #### Cited by
 This repository is cited by:
