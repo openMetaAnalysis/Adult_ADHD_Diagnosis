@@ -4,7 +4,7 @@ A living systematic review
 
 Short url: https://openmetaanalysis.github.io/Adult-ADHD/
 
-**Clinical summary:** This meta-analysis, based on limited data in a single studies for each scale, suggests that the Conners’ Adult ADHD Rating Scale (CAARS) Self-Report Index T-Score *is* the most accurate. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 98% *across* scales, but cannot be measured for each scale as only a single study is available per scale. This review updates previously published meta-analysis(es).(citation[s] below). Taylor previously concluded using different studies with different metrics, "Conners’ Adult ADHD Rating scale and the Wender Utah Rating Scale (short version) hadmore robust psychometric statistics and content validity" ([Taylor, 2011](#systematic-reviews)).
+**Clinical summary:** This meta-analysis, based on limited data in a single studies for all scales other than the WURS, suggests that the Conners’ Adult ADHD Rating Scale (CAARS) Self-Report Index T-Score *is* the most accurate. Heterogeneity of results as measured by I<sup>2</sup> was '[substantial](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 98% *across* scales, but cannot be measured for each scale as no more than two studies are available per scale. This review updates previously published meta-analysis(es).(citation[s] below). Taylor previously concluded using different studies with different metrics, "Conners’ Adult ADHD Rating scale and the Wender Utah Rating Scale (short version) had more robust psychometric statistics and content validity" ([Taylor, 2011](#systematic-reviews)).
 
 <!-- Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.-->
 
@@ -30,8 +30,9 @@ The forest plot for the primary outcomes are below. Additional [forest plots](fi
 <!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
--->
+
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
+-->
 
 References:
 ----------------------------------
